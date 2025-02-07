@@ -65,8 +65,7 @@ A full-stack food Ordering platform that allows customers to browse restaurants,
 ### Backend Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MealMate
-   cd MealMate
+   git clone https://github.com/Amithasaa/Python-MealMate
 
 ### Usage:
 Register and log in as a customer or vendor.
